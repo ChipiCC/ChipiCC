@@ -1,3 +1,5 @@
+<img src="./assets/banner.png" alt="Banner" width="800" height="400">
+
 ## 🏹 🌑 Hey there! I'm Guillermo 👋
 
 > *"Prepare to code."*
